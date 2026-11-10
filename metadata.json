@@ -1,0 +1,8 @@
+{
+  "name": "Tarjeta Digital COSMIN - Luis",
+  "description": "Tarjeta de presentación digital profesional con código QR dinámico, perfil COSMIN y COSLINK, integración de vCard y captación de prospectos mineros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
