@@ -31,11 +31,11 @@ const mockContact: ContactInfo = {
     linkedin: 'https://linkedin.com/company/coslink-global',
     website: 'https://www.coslink.global',
   },
-  photoUrl: '/assets/aistudio/Luis_Badilla_6be32beb.png',
-  cosminLogoTransparent: '/assets/aistudio/cosmin_logo_transparent.png',
-  cosminLogoWhiteText: '/assets/aistudio/cosmin_logo_white_text.png',
-  coslinkLogoTransparent: '/assets/aistudio/coslink_logo_transparent.png',
-  coslinkLogoWhite: '/assets/aistudio/coslink_logo_white_transparent.png',
+  photoUrl: 'assets/aistudio/Luis_Badilla_6be32beb.png',
+  cosminLogoTransparent: 'assets/aistudio/cosmin_logo_transparent.png',
+  cosminLogoWhiteText: 'assets/aistudio/cosmin_logo_white_text.png',
+  coslinkLogoTransparent: 'assets/aistudio/coslink_logo_transparent.png',
+  coslinkLogoWhite: 'assets/aistudio/coslink_logo_white_transparent.png',
 };
 
 test('vCard string contains proper standard fields and Luis Badilla contact data', () => {
